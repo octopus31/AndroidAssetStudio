@@ -45,7 +45,7 @@
     "jquery": "^3.5.1",
     "jszip": "^3.5.0",
     "react": "^16.13.1",
-    "react-color": "^2.18.1",
+    "react-color": "^2.19.3",
     "react-dom": "^16.13.1",
     "tinycolor2": "^1.4.2",
     "webfontloader": "^1.6.28"
